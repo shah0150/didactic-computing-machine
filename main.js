@@ -1,0 +1,1 @@
+// Write your solution here for Create a function isEven that determines if a given number is even or odd and returns true or false accordingly.
